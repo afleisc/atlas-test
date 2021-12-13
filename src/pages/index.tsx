@@ -26,7 +26,7 @@ export default function Page() {
 
       <Head>
         <title>
-          {generalSettings.title} - {generalSettings.description}
+          {generalSettings.title} My title {generalSettings.description}
         </title>
       </Head>
 
